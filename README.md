@@ -1,7 +1,6 @@
 ### Olá Eu sou o Helton1000 👋
 
 - 🌱 Estudando JavaScript
-- 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ele/dele
 
 <div align="center">
