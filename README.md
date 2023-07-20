@@ -1,7 +1,8 @@
 ## Olá Eu sou o Helton Barbosa 
 <div align="center">
   <a href="https://github.com/Helton1000">
-  ![Helton1000 GitHub stats](https://github-readme-stats.vercel.app/api?username=Helton1000&show_icons=true&theme=radical)
+  
+    ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helton1000&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
