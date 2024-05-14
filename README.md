@@ -6,13 +6,6 @@
 
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Helton1000&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000" alt="Gabriel Vitor's github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helton1000&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000" />
-</div>
-
-<br>
-
 <div align="center"> 
 <a href="https://www.instagram.com/heltonribeirof/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
  style="border-radius: 30px"</a>
